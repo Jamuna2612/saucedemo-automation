@@ -95,6 +95,3 @@ Include API and database validation layer
 
 This project demonstrates how to build a structured, maintainable automation framework using Selenium, Java, and TestNG, focused on reliability, reusability, and detailed reporting.
 
-
-
-Scanning
